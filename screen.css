@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(27, 31, 30);
+    color: #696969;
+    font-family: cursive;
+    text-align: center;
+}
+
+h1 {
+    color: rgb(17, 198, 211);
+    font-size: 2em;
+    padding: 100px;
+}
+
+.by-2, .venus, .jupiter{
+    margin: 1em;
+    border-radius: 5px;
+    color: #696969;
+    display: inline-block;
+}
+
+img {
+    max-width: 400px;
+    max-height: 400px;
+    display: block;
+    margin: 0 auto;
+}
+
+a {
+    color: #292727;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #8B4513;
+}
